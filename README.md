@@ -3,6 +3,8 @@ This is a boilerplate for using [Next.js](https://nextjs.org/) as a static site 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-starter-jamstack)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c51ce29a-3ffa-41a1-a4f9-8dde2b555605/deploy-status)](https://app.netlify.com/sites/bhavyakamboj/deploys)
+
 ## Usage
 
 ### Getting started
